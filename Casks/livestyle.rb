@@ -9,4 +9,10 @@ cask 'livestyle' do
   homepage 'http://livestyle.io/'
 
   app 'LiveStyle.app'
+
+  
+  zap trash: [
+               '~/Library/Saved Application State/io.livestyle.app.savedState',
+               '~/Library/Caches/livestyle-app',
+]
 end
