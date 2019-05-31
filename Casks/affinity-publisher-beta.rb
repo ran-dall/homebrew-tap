@@ -1,6 +1,6 @@
 cask 'affinity-publisher-beta' do
-  version '1.7.0.337'
-  sha256 'd707474487e63a815226faf98a5d83faa356e37bde6a39a0be260c60d8daef3b'
+  version '1.7.0.371'
+  sha256 '021a650546a8f0fa94ac0cff1c0da8dbbe3ab9f1c7f4ab37d6776bdc4f899735'
 
   # amazonaws.com/affinity-beta was verified as official when first introduced to the cask
   url "https://s3.amazonaws.com/affinity-beta/download/Affinity-Publisher-Beta-#{version}.dmg"
