@@ -5,3 +5,4 @@
 ## Casks
 - [Emmet LiveStyle](https://github.com/livestyle/app)
 - [iTunesConnect App](https://github.com/ronakdev/itunesconnect) by @ronakdev
+- [Hackaru-Desktop](https://github.com/ktmouk/hackaru-desktop) by @ktmouk
