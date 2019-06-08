@@ -2,6 +2,9 @@
 
 *Here's what you'll find in this repo*
 
+## Formula
+- [icu4c@58.1](https://github.com/magrathealabs/homebrew-mlabs/blob/master/Formula/icu4c%4058.1.rb) sourced from @magrathealabs
+
 ## Casks
 - [Emmet LiveStyle](https://github.com/livestyle/app)
 - [iTunesConnect App](https://github.com/ronakdev/itunesconnect) by @ronakdev
