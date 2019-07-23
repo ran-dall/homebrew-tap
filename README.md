@@ -12,3 +12,4 @@
 - [Rectangle](https://github.com/rxhanson/Rectangle) by @rxhanson
 - [IOJones](https://github.com/acidanthera/IOJones) by @acidanthera
 - [TestMace](https://testmace.com) by @TestMace
+- [Checksum Validator](https://github.com/alexanderwe/checksum-validator) by @alexanderwe
