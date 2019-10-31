@@ -12,4 +12,5 @@
 - [IOJones](https://github.com/acidanthera/IOJones) by @acidanthera
 - [TestMace](https://testmace.com) by @TestMace
 - [Checksum Validator](https://github.com/alexanderwe/checksum-validator) by @alexanderwe
-- [Mouse Fix](https://github.com/noah-nuebling/mac-mouse-fix)  by @noah-nuebling - [Reddit Post](https://www.reddit.com/r/mac/comments/dca249/i_made_mac_mouse_fix_a_simple_mac_app_that_will/)
+- [Mouse Fix](https://github.com/noah-nuebling/mac-mouse-fix) by @noah-nuebling - [Reddit Post](https://www.reddit.com/r/mac/comments/dca249/i_made_mac_mouse_fix_a_simple_mac_app_that_will/)
+- [Rambox Pro](https://github.com/ramboxapp/download) by @rambox
