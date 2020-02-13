@@ -8,4 +8,6 @@ cask "iojones" do
   homepage "https://github.com/acidanthera/IOJones"
 
   app "IOJones.app"
+
+  zap trash: '~/Library/Preferences/net.sourceforge.IOJones.plist'
 end
