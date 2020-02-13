@@ -1,19 +1,19 @@
-cask "hackaru" do
-  version "0.1.0"
-  sha256 "216a1baa87c5bcc65c84cd569cf492286d910236b7708a3caf6847556dc857df"
+cask 'hackaru' do
+  version '1.1.1'
+  sha256 '26343a8046a7a1001f8866d6f1ef97f8afb5515032608ed5a218a0b90d55147a'
 
   url "https://github.com/ktmouk/hackaru-desktop/releases/download/v#{version}/Hackaru-#{version}.dmg"
-  appcast "https://github.com/ktmouk/hackaru-desktop/releases"
-  name "Hackaru"
-  homepage "https://github.com/ktmouk/hackaru-desktop"
+  appcast 'https://github.com/ktmouk/hackaru-desktop/releases'
+  name 'Hackaru'
+  homepage 'https://github.com/ktmouk/hackaru-desktop'
 
-  app "Hackaru.app"
+  app 'Hackaru.app'
 
-  uninstall :delete => [
-    '~/Library/Application\ Support/Hackaru',
-    '~/Library/Saved\ Application\ State/app.hackaru.savedState/',
-    "~/Library/Preferences/app.hackaru.helper.plist",
-    "~/Library/Preferences/app.hackaru.plist",
-    "~/Library/Logs/Hackaru/",
-  ]
+  zap trash: [
+               '~/Library/Application Support/Hackaru',
+               '~/Library/Preferences/app.hackaru.helper.plist',
+               '~/Library/Preferences/app.hackaru.plist',
+               '~/Library/Saved Application State/app.hackaru.savedState',
+               '~/Library/Logs/Hackaru/',
+             ]
 end
