@@ -8,4 +8,13 @@ cask 'checksum-validator' do
   homepage 'https://github.com/alexanderwe/checksum-validator'
 
   app 'Checksum Validator.app'
+
+  zap trash: [
+               '~/Library/Application Support/checksum-validator',
+               '~/Library/Logs/checksum-validator',
+               '~/Library/Preferences/com.github.alexanderwe.checksum-validator.helper.plist',
+               '~/Library/Preferences/com.github.alexanderwe.checksum-validator.plist',
+               '~/Library/Preferences/com.github.alexanderwe.checksum-validator.plist.55TGTA4',
+               '~/Library/Saved Application State/com.github.alexanderwe.checksum-validator.savedState',
+             ]
 end
