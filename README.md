@@ -17,5 +17,6 @@ brew tap ran-dall/repo
 - `testmac` 👉 [Test Mace](https://testmace.com) by [Test Mace](https://testmace.com)
 - `checksum-validator` 👉 [Checksum Validator](https://github.com/alexanderwe/checksum-validator) by [Alexander Weiß [alexanderwe]](https://github.com/alexanderwe/)
 - `mouse-fix` 👉 [Mouse Fix](https://github.com/noah-nuebling/mac-mouse-fix) by [Noah Nuebling [noah-nuebling]](https://github.com/noah-nuebling/) | [Reddit Post](https://www.reddit.com/r/mac/comments/dca249/i_made_mac_mouse_fix_a_simple_mac_app_that_will/)
+- `drjava` 👉 [Dr. Java](http://www.drjava.org/) by [YourKit](https://yourkit.com/)
 - `rambox-pro` 👉 [Rambox Pro](https://github.com/ramboxapp/download) by [Rambox](https://github.com/ramboxapp/)
 - `videoproc` 👉 [VideoProc](https://www.videoproc.com/) by [Digiarty](https://www.winxdvd.com/)
