@@ -1,6 +1,6 @@
 cask 'testmace' do
-  version '0.0.1-beta.29'
-  sha256 'c81f31d3bcb6d8334a3e7aa6d66eedbb83e9a5305efe47a0d2a398af80b45ed8'
+  version '1.0.0'
+  sha256 '5e87f73c6a459385d6f9a3908027a18e64cf5cac29eb1e960af3ed99817f997d'
 
   url 'https://download.testmace.com/TestMace.dmg'
   appcast 'https://testmace.com/blog/'
