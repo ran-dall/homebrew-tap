@@ -19,5 +19,6 @@ brew tap ran-dall/tap
 - `mouse-fix` 👉 [Mouse Fix](https://github.com/noah-nuebling/mac-mouse-fix) by [Noah Nuebling [noah-nuebling]](https://github.com/noah-nuebling/) | [Reddit Post](https://www.reddit.com/r/mac/comments/dca249/i_made_mac_mouse_fix_a_simple_mac_app_that_will/)
 - `drjava` 👉 [Dr. Java](http://www.drjava.org/) by [YourKit](https://yourkit.com/)
 - `rambox-pro` 👉 [Rambox Pro](https://github.com/ramboxapp/download) by [Rambox](https://github.com/ramboxapp/)
+- `wireguardstatusbar` 👉 [Wireguard Statusbar](https://github.com/aequitas/macos-menubar-wireguard) by [Johan Bloemberg [aequitas]](https://github.com/aequitas)
 - `videoproc` 👉 [VideoProc](https://www.videoproc.com/) by [Digiarty](https://www.winxdvd.com/)
 - `vmware-fusion` @ `11.5.3-15870345` 👉 [VMWare Fusion](https://www.vmware.com/products/fusion.html) ~ pinned for High Sierra compatibility by [VMWare](https://www.vmware.com/)
