@@ -12,7 +12,6 @@ brew tap ran-dall/tap
 
 ## Casks
 - `livestyle` 👉 [Emmet LiveStyle](https://github.com/livestyle/app) by [Emmet Livestyle](http://livestyle.io/)
-- `hackaru` 👉 [Hackaru Desktop](https://github.com/ktmouk/hackaru-desktop) by [[ktmouk]](https://github.com/ktmouk/)
 - `iojones` 👉 [IOJones](https://github.com/acidanthera/IOJones) fork by [[acidanthera]](https://github.com/acidanthera/)
 - `ioregistryexplorer` 👉 [IORegistryExplorer](https://github.com/vulgo/IORegistryExplorer) fork by [[vulgo]](https://github.com/vulgo/)
 - `testmac` 👉 [Test Mace](https://testmace.com) by [Test Mace](https://testmace.com)
