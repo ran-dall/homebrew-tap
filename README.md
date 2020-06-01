@@ -12,8 +12,9 @@ brew tap ran-dall/tap
 
 ## Casks
 - `livestyle` 👉 [Emmet LiveStyle](https://github.com/livestyle/app) by [Emmet Livestyle](http://livestyle.io/)
-- `hackaru` 👉 [Hackaru Desktop](https://github.com/ktmouk/hackaru-desktop) by [ktmouk](https://github.com/ktmouk/)
-- `iojones` 👉 [IOJones](https://github.com/acidanthera/IOJones) fork by [acidanthera](https://github.com/acidanthera/)
+- `hackaru` 👉 [Hackaru Desktop](https://github.com/ktmouk/hackaru-desktop) by [[ktmouk]](https://github.com/ktmouk/)
+- `iojones` 👉 [IOJones](https://github.com/acidanthera/IOJones) fork by [[acidanthera]](https://github.com/acidanthera/)
+- `ioregistryexplorer` 👉 [IORegistryExplorer](https://github.com/vulgo/IORegistryExplorer) fork by [[vulgo]](https://github.com/vulgo/)
 - `testmac` 👉 [Test Mace](https://testmace.com) by [Test Mace](https://testmace.com)
 - `checksum-validator` 👉 [Checksum Validator](https://github.com/alexanderwe/checksum-validator) by [Alexander Weiß [alexanderwe]](https://github.com/alexanderwe/)
 - `mouse-fix` 👉 [Mouse Fix](https://github.com/noah-nuebling/mac-mouse-fix) by [Noah Nuebling [noah-nuebling]](https://github.com/noah-nuebling/) | [Reddit Post](https://www.reddit.com/r/mac/comments/dca249/i_made_mac_mouse_fix_a_simple_mac_app_that_will/)
