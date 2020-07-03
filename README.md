@@ -9,6 +9,7 @@ brew tap ran-dall/tap
 
 ## Formula
 - `icu4c@58.1` 👉 [icu4c v58.1](https://github.com/magrathealabs/homebrew-mlabs/blob/master/Formula/icu4c%4058.1.rb) sourced from [magrathealabs](https://github.com/magrathealabs/)
+- `pantheon-terminus` 👉 [Terminus](https://github.com/pantheon-systems/terminus) by [Pantheon](https://github.com/pantheon-systems)
 
 ## Casks
 - `livestyle` 👉 [Emmet LiveStyle](https://github.com/livestyle/app) by [Emmet Livestyle](http://livestyle.io/)
