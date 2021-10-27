@@ -1,6 +1,6 @@
-# Randall's Homebrew 🍻 Tap 🚰
+# Randall's Homebrew 🍻 Tap
 
-**This is my (@ran-dall) Homebrew 🍻 tap...maybe you'll find what you're looking for; or maybe something fascinating 🤙** *Anywho, here's what you'll find 🧐 in this repo...*
+**This is my (@ran-dall) Homebrew 🍻 tap. Maybe you'll find what you're looking for here, or maybe you'll find something just plain fascinating. 🤯 Who knows? 🤙** ***Anywho, here's what you'll find 🧐 in this repo...***
 
 ### 💾 Installation
 ```bash
